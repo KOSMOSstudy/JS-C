@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Js%20Study&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20이성규&descAlignY=65&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Js%20Study&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20이성규&descAlignY=65&descAlign=75)
 
 #header
 ```
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Js%20Study&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20본인의 이름을 넣어주세요&descAlignY=65&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Js%20Study&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20본인의 이름을 넣어주세요&descAlignY=65&descAlign=75)
 ```
 ## Navigation
 [MadeBy](#MadeBy)
